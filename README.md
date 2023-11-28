@@ -32,8 +32,8 @@
 ## Outp[empd 5 fini.pdf](https://github.com/23014287rithik/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/files/13491357/empd.5.fini.pdf)
 ut:
 
-### Name:
-### Register Number:
+### Name:rithik v
+### Register Number:23014287
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
