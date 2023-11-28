@@ -29,7 +29,8 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
-## Output:
+## Outp[empd 5 fini.pdf](https://github.com/23014287rithik/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/files/13491357/empd.5.fini.pdf)
+ut:
 
 ### Name:
 ### Register Number:
